@@ -1,0 +1,20 @@
+# Render Blueprint — 生成サイトを Static Site として公開
+# 使い方: この zip の中身をリポジトリ直下に置いて GitHub へ push → Render で New → Blueprint
+services:
+  - type: web
+    name: affiliate-site
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    autoDeploy: true
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: DENY
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+    routes:
+      - type: rewrite
+        source: /
+        destination: /index.html

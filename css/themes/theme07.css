@@ -1,0 +1,16 @@
+/* theme07 — ダーク・プロ（自動生成: tools/gen_themes.py） */
+:root, body.theme07, .theme07 {
+  --ab-primary: #60a5fa;
+  --ab-primary-dark: #3b82f6;
+  --ab-accent: #fbbf24;
+  --ab-bg: #0f172a;
+  --ab-surface: #1e293b;
+  --ab-text: #e2e8f0;
+  --ab-muted: #94a3b8;
+  --ab-border: #334155;
+  --ab-radius: 10px;
+  --ab-heading-font: var(--ab-font);
+  --ab-hero-bg: linear-gradient(135deg, #60a5fa, #3b82f6);
+  --ab-cta-bg: #fbbf24;
+}
+.ab-hero{background:linear-gradient(135deg,#1e3a8a,#0f172a)}.ab-table th{background:#1e293b}.ab-hero .ab-btn{background:#60a5fa;color:#0f172a}
