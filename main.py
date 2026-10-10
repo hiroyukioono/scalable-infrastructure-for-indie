@@ -91,6 +91,11 @@ body.theme07 {
   --ab-hero-bg: linear-gradient(135deg, #60a5fa, #3b82f6);
   --ab-cta-bg: #fbbf24;
 }
+
+/* ★ 広告中央寄せ */
+.ad-center {
+  text-align: center;
+}
 </style>
 
 </head>
@@ -166,11 +171,14 @@ body.theme07 {
   <h2>XServerの公式サイトはこちら</h2>
   <p>今ならキャンペーン実施中</p>
 
-  <!-- ★ A8.net 広告タグ（正しく統合済み） -->
-  <a href="https://px.a8.net/svt/ejp?a8mat=4BED93+7AK6K2+CO4+6PRPD" rel="nofollow">
-    <img border="0" width="250" height="250" alt="XServer広告" src="https://www26.a8.net/svt/bgt?aid=261010839441&wid=001&eno=01&mid=s00000001642001128000&mc=1">
-  </a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BED93+7AK6K2+CO4+6PRPD" alt="">
+  <div class="ad-center">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4BED93+7AK6K2+CO4+6PRPD" rel="nofollow">
+      <img border="0" width="250" height="250" alt="XServer広告"
+           src="https://www26.a8.net/svt/bgt?aid=261010839441&wid=001&eno=01&mid=s00000001642001128000&mc=1">
+    </a>
+    <img border="0" width="1" height="1"
+         src="https://www11.a8.net/0.gif?a8mat=4BED93+7AK6K2+CO4+6PRPD" alt="">
+  </div>
 
   <p class="ab-note">※価格・キャンペーン内容は公式サイトでご確認ください</p>
 </section>
