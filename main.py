@@ -151,7 +151,7 @@ body.theme07 {
   <h2>価格比較</h2>
   <table class="ab-table">
     <thead>
-      <tr><th>項目</th><th>商品A</th><th>商品B</th><th>商品C</th></tr>
+      <tr><th>項目</th><th>XServer</th><th>ConoHa WING</th><th>mixhost</th></tr>
     </thead>
     <tbody>
       <tr><td>価格</td><td>693円/月～</td><td>937円/月～</td><td>650円/月～</td></tr>
