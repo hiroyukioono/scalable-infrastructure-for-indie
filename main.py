@@ -105,11 +105,11 @@ body.theme07 {
   <h2>口コミレビュー</h2>
   <div class="ab-stars">★★★★★</div>
   <div class="content">
-    「XServer」を使う前は、インフラ選定に時間がかかってました。最初は安心して運用できると思ったのですが、バックアップや設定のミスなどで予期せぬ費用が増えていたんです。
+    「XServer」を使う前は、インフラ選定に時間がかかっていました。バックアップや設定ミスで予期せぬ費用が増えた経験から、安定した環境の重要性を実感しました。
   </div>
   <div class="ab-author">
     <div class="ab-avatar">個</div>
-    <span class="ab-muted">個人開発者：クラウドの料金や複雑な設定に悩んでいました。</span>
+    <span class="ab-muted">個人開発者：クラウド料金や設定の複雑さに悩んでいました。</span>
   </div>
 </section>
 
@@ -125,7 +125,7 @@ body.theme07 {
 <section class="ab-block ab-card ab-latent">
   <h2>まだ気づいていない、本当の悩み</h2>
   <div class="content">
-    WebアプリやAPIサーバーを高速かつ安定して動作させるためには、次世代の超速サーバー環境が必要です。
+    WebアプリやAPIサーバーを高速かつ安定して動作させるには、次世代の超速サーバー環境が必要です。
   </div>
 </section>
 
@@ -165,7 +165,13 @@ body.theme07 {
 <section class="ab-block ab-cta">
   <h2>XServerの公式サイトはこちら</h2>
   <p>今ならキャンペーン実施中</p>
-  <a href="#" class="ab-btn">公式サイトで詳細を見る</a>
+
+  <!-- ★ A8.net 広告タグ（正しく統合済み） -->
+  <a href="https://px.a8.net/svt/ejp?a8mat=4BED93+7AK6K2+CO4+6PRPD" rel="nofollow">
+    <img border="0" width="250" height="250" alt="XServer広告" src="https://www26.a8.net/svt/bgt?aid=261010839441&wid=001&eno=01&mid=s00000001642001128000&mc=1">
+  </a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BED93+7AK6K2+CO4+6PRPD" alt="">
+
   <p class="ab-note">※価格・キャンペーン内容は公式サイトでご確認ください</p>
 </section>
 
