@@ -92,9 +92,10 @@ body.theme07 {
   --ab-cta-bg: #fbbf24;
 }
 
-/* ★ 広告中央寄せ */
-.ad-center {
-  text-align: center;
+/* ★ 広告画像を確実に中央寄せ */
+.ad-center img {
+  display: block;
+  margin: 0 auto;
 }
 </style>
 
