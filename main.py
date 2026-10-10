@@ -173,12 +173,12 @@ body.theme07 {
   <p>今ならキャンペーン実施中</p>
 
   <div class="ad-center">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4BED93+7AK6K2+CO4+6PRPD" rel="nofollow">
-      <img border="0" width="250" height="250" alt="XServer広告"
-           src="https://www26.a8.net/svt/bgt?aid=261010839441&wid=001&eno=01&mid=s00000001642001128000&mc=1">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4BED93+7AK6K2+CO4+6CHB5" rel="nofollow">
+      <img border="0" width="350" height="240" alt=""
+           src="https://www20.a8.net/svt/bgt?aid=261010839441&wid=001&eno=01&mid=s00000001642001066000&mc=1">
     </a>
     <img border="0" width="1" height="1"
-         src="https://www11.a8.net/0.gif?a8mat=4BED93+7AK6K2+CO4+6PRPD" alt="">
+         src="https://www12.a8.net/0.gif?a8mat=4BED93+7AK6K2+CO4+6CHB5" alt="">
   </div>
 
   <p class="ab-note">※価格・キャンペーン内容は公式サイトでご確認ください</p>
